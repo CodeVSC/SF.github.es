@@ -1,4 +1,20 @@
 /*INICIO*/
+#search, .search-button{
+    position: absolute;
+    left: 390px
+}
+#ext-gen319 {
+    display: none
+}
+.x-grid3-cell-inner, .x-grid3-col-3{
+    font-size: 30px;
+}
+.home-spotube-title{
+    display: none;
+}
+.bodyWrap {
+    display: none;
+}
 .x-grid3-cell-inner, .x-grid3-col-3{
     font-size: 17px;
 }
