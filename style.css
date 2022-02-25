@@ -3,8 +3,14 @@
     position: absolute;
     left: 390px
 }
-#ext-gen319 {
-    display: none
+#ext-gen319{
+    display: none;
+}
+.home-spotube-title{
+    display: none;
+}
+.bodyWrap{
+    display: none;
 }
 .x-grid3-cell-inner, .x-grid3-col-3{
     font-size: 30px;
@@ -12,19 +18,10 @@
 .home-spotube-title{
     display: none;
 }
-.bodyWrap {
+.bodyWrap{
     display: none;
 }
-.x-grid3-cell-inner, .x-grid3-col-3{
-    font-size: 17px;
-}
-.home-spotube-title{
-    display: none
-}
-.bodyWrap {
-    display: none
-}
-.top-played-box {
+.top-played-box{
     background-image: url(https://raw.githubusercontent.com/Yassinegoogle/SF.github.es/main/SPAM.instagram.png);
     background-position: center center;
     background-repeat: no-repeat;
@@ -43,23 +40,23 @@
 #topPlayedAlbumTitle, title{
     display: none;
 }
-.top-played-box img {
+.top-played-box img{
     display: none;
 }
-td > div > img {
+td > div > img{
     display: none;
 }
 .allWidth {
     background-image: url(https://raw.githubusercontent.com/Yassinegoogle/SF.github.es/main/youtube_robinff.png);
     background-repeat: no-repeat;
 }
-.allWidth table {
+.allWidth table{
     display: none;
 }
 /*FIN INICIO*/
 .grid-button-play:active, .grid-button-play-sound{
     background-image: url(https://cdn-icons.flaticon.com/png/512/2058/premium/2058142.png?token=exp=1645824909~hmac=661dc617b2e27567f3ad71b1b157d0e1);
-    background-size: 20px
+    background-size: 20px;
 }
 .x-tab-panel-body, .x-tab-panel-body-top *{
     background-color: #050505;
@@ -73,19 +70,19 @@ td > div > img {
 #headerTable .column2{
     padding-right: 943px;
 }
-#localeDiv {
+#localeDiv{
     display: none;
 }
-.x-grid3-header-offset {
+.x-grid3-header-offset{
     display: none;
 }
-.x-grid3-hd.x-grid3-cell-first {
+.x-grid3-hd.x-grid3-cell-first{
     display: none;
 }
-.x-tab-panel-header {
+.x-tab-panel-header{
     display: none;
 }
-.x-tab-strip span {
+.x-tab-strip span{
     display: none;
 }
 .north tr {
@@ -110,34 +107,34 @@ td > div > img {
 
 }
 
-.lastfm-info-padding {
+.lastfm-info-padding{
     visibility: hidden;
 }
 
-.lastfm-info {
+.lastfm-info{
     visibility: hidden;
 }
-#ext-gen150 {
+#ext-gen150{
     display: none;
 }
-#ext-gen70 {
+#ext-gen70{
     display: none;
 }
 #west-panel-xsplit{
     display: none;
 }
-#ext-gen69 {
+#ext-gen69{
     display: none;
 }
-.column3 {
+.column3{
     display: none;
 }
-body {
+body{
     background: -webkit-gradient(linear, right top, left top, from(#000000), to(#000000));
     background: linear-gradient(to left, #010101, #010101);
     text-align:left;
     color: #fdfdfd;
 }
-.x-panel-tbar-noheader .x-toolbar-layout-ct {
+.x-panel-tbar-noheader .x-toolbar-layout-ct{
     display: none;
 }
