@@ -6,10 +6,36 @@
     display: none
 }
 .top-played-box {
-    background-image: url(); 
+    background-image: url(https://raw.githubusercontent.com/Yassinegoogle/SF.github.es/main/SPAM.instagram.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #66999;
+    background-size: 500px;
+}
+}
+#topPlayedAlbumTitle, title{
+    display: none;
+}
+#topPlayedArtistTitle, title{
+    display: none;
+}
+#topPlayedAlbumTitle, title{
+    display: none;
 }
 .top-played-box img {
-    display: none
+    display: none;
+}
+td > div > img {
+    display: none;
+}
+.allWidth {
+    background-image: url(https://raw.githubusercontent.com/Yassinegoogle/SF.github.es/main/youtube_robinff.png);
+    background-repeat: no-repeat;
+}
+.allWidth table {
+    display: none;
 }
 /*FIN INICIO*/
 .grid-button-play:active, .grid-button-play-sound{
