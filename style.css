@@ -1,4 +1,7 @@
 /*INICIO*/
+.x-grid3-cell-inner, .x-grid3-col-3{
+    font-size: 17px;
+}
 .home-spotube-title{
     display: none
 }
