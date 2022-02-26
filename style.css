@@ -21,6 +21,18 @@
 .g-box-full, .sceneLayer{
     visibility: hidden;
 }
-.g-box-full:after, .sceneLayer:after{
-    background-image: url()
+.searchResultGroupHeading, .sc-mx-2x{
+    display: none;
+}
+.playControls__elements{
+    position: absolute;
+    left: 0px;
+}
+.image, .image__lightOutline, .sc-artwork, .sc-artwork-placeholder-4, .m-loaded{
+    display: none
+}
+.sound__content *{
+}
+.sound__artwork, .sc-mr-1x{
+    display: none;
 }
