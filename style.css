@@ -1,140 +1,26 @@
-/*INICIO*/
-#search, .search-button{
+.sc-classic .headerSearch{
     position: absolute;
-    left: 390px
+    left: 0px
 }
-#ext-gen319{
+.header__logo, .left{
+    display: none
+}
+.l-fixed-left{
     display: none;
 }
-.home-spotube-title{
-    display: none;
-}
-.bodyWrap{
-    display: none;
-}
-.x-grid3-cell-inner, .x-grid3-col-3{
-    font-size: 30px;
-}
-.home-spotube-title{
-    display: none;
-}
-.bodyWrap{
-    display: none;
-}
-.top-played-box{
-    background-image: url(https://raw.githubusercontent.com/Yassinegoogle/SF.github.es/main/SPAM.instagram.png);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #66999;
-    background-size: 500px;
-}
-}
-#topPlayedAlbumTitle, title{
-    display: none;
-}
-#topPlayedArtistTitle, title{
-    display: none;
-}
-#topPlayedAlbumTitle, title{
-    display: none;
-}
-.top-played-box img{
-    display: none;
-}
-td > div > img{
-    display: none;
-}
-.allWidth {
-    background-image: url(https://raw.githubusercontent.com/Yassinegoogle/SF.github.es/main/youtube_robinff.png);
-    background-repeat: no-repeat;
-}
-.allWidth table{
-    display: none;
-}
-/*FIN INICIO*/
-.grid-button-play:active, .grid-button-play-sound{
-    background-image: url(https://cdn-icons.flaticon.com/png/512/2058/premium/2058142.png?token=exp=1645824909~hmac=661dc617b2e27567f3ad71b1b157d0e1);
-    background-size: 20px;
-}
-.x-tab-panel-body, .x-tab-panel-body-top *{
-    background-color: #050505;
-}
-.x-grid3-td-checker, .x-grid3-cell-first{
-    display: none;
-}
-.x-grid3-row-checker{
-    display: none;
-}
-#headerTable .column2{
-    padding-right: 943px;
-}
-#localeDiv{
-    display: none;
-}
-.x-grid3-header-offset{
-    display: none;
-}
-.x-grid3-hd.x-grid3-cell-first{
-    display: none;
-}
-.x-tab-panel-header{
-    display: none;
-}
-.x-tab-strip span{
-    display: none;
-}
-.north tr {
-    background-color: black;
-}
-#headerTable .logo{
-    background-image: url(https://raw.githubusercontent.com/Yassinegoogle/SF.github.es/main/logo.jpeg);
-    background-size: 170px;
-    padding-top: 9px;
-}
-.x-tab-strip-active span.x-tab-strip-text{
-    visibility: hidden;
-    position: relative;
-} 
-.x-tab-strip-active span.x-tab-strip-text:after{
-    visibility: visible;
+.search{
     position: absolute;
-    top: 2;
-    left: 0;
-    content: "· SF";
+    left: 0px;
 }
-
+.commentPopover__wrapper{
+    display: none;
 }
-
-.lastfm-info-padding{
+.commentPopover, .darkText, .smallAvatar, .small, .visible{
+    display: none;
+}
+.g-box-full, .sceneLayer{
     visibility: hidden;
 }
-
-.lastfm-info{
-    visibility: hidden;
-}
-#ext-gen150{
-    display: none;
-}
-#ext-gen70{
-    display: none;
-}
-#west-panel-xsplit{
-    display: none;
-}
-#ext-gen69{
-    display: none;
-}
-.column3{
-    display: none;
-}
-body{
-    background: -webkit-gradient(linear, right top, left top, from(#000000), to(#000000));
-    background: linear-gradient(to left, #010101, #010101);
-    text-align:left;
-    color: #fdfdfd;
-}
-.x-panel-tbar-noheader .x-toolbar-layout-ct{
-    display: none;
+.g-box-full:after, .sceneLayer:after{
+    background-image: url()
 }
