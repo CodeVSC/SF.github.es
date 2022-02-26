@@ -36,3 +36,16 @@
 .sound__artwork, .sc-mr-1x{
     display: none;
 }
+.playControls__soundBadge{
+    display: none;
+}
+/*HERRAMIENTAS QUE USARE EN EL FUTURO compartir etc*/
+.sound__footer{
+    display: none;
+}
+.sound__waveform{
+    display: none;
+}
+.soundTitle__additionalContainer{
+    display: none;
+}
